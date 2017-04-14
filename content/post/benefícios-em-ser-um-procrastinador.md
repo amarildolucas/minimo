@@ -1,7 +1,7 @@
 +++
 date = "2017-04-14T12:16:56-03:00"
 title = "Benefícios em ser um procrastinador"
-
+draft = false
 +++
 
 Procrastinação é vista no sentido pejorativo quase sempre. 
