@@ -1,13 +1,13 @@
 baseurl = "https://amarildolucas.herokuapp.com/"
 title = "Amarildo"
 author = "Amarildo Lucas"
-copyright = "© 2017 Amarildo Lucas "
+copyright = "© 2017 Amarildo Lucas"
 canonifyurls = true
 paginate = 5
 googleAnalytics = ""
 theme = "strange-case"
 languageCode = "pt"
-disqusShortname = "amarildolucas.disqus.com"
+disqusShortname = "amarildolucas"
 
 [params]
 	DateFormat = "02/01 de 2006"
