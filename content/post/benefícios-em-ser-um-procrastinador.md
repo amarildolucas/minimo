@@ -8,6 +8,8 @@ Procrastinação é vista no sentido pejorativo quase sempre.
 
 > **[Wikipédia](https://pt.wikipedia.org/wiki/Procrastina%C3%A7%C3%A3o)** define o termo da seguinte forma e observe as palavras pejorativas na frase. **Procrastinação é o diferimento ou adiamento de uma ação.** Para a pessoa que está a procrastinar, isso resulta em **stress**, sensação de **culpa**, **perda** de produtividade e **vergonha** em relação aos outros, por **não cumprir** com as suas responsabilidades e compromissos. Embora a procrastinação seja considerada normal, torna-se um **problema** quando impede o funcionamento normal das ações.
 
+[logo]:(https://cdn.lynda.com/course/143455/143455-636167145027373756-16x9.jpg)
+
 No meu caso, significa que intencionalmente aguardo determinado tempo até cumprir alguma tarefa por diversos motivos. Isso regularmente determina prazos curtos em vez de um prazo sustentável ou longo. **Mas as vezes não é tão terrível assim como parece, essa tática pode ser surpreendente.**
 
 **Bill Gates chegou a dizer:** 
