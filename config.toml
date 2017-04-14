@@ -7,7 +7,7 @@ paginate = 5
 googleAnalytics = ""
 theme = "strange-case"
 languageCode = "pt"
-disqusShortname = "amarildolucas"
+disqusShortname = "amarildolucas.disqus.com"
 
 [params]
 	DateFormat = "02/01 de 2006"
