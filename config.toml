@@ -1,0 +1,7 @@
+baseURL = "http://amarildolucas.com/"
+languageCode = "pt-BR"
+title = "Computadores"
+
+[Params]
+    Author = "Amarildo Lucas"
+    disqusShortname = <amarildolucas>
