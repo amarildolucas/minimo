@@ -2,14 +2,22 @@
 date: 2017-04-14T09:00:00+06:00
 title: Benefícios em ser um procrastinador
 authors: ["amarildolucas"]
+
 categories:
   - Negócios
+
 tags:
   - Startups
   - Empreendedorismo
+
 slug: benefícios em ser um procrastinador
 comments: true
 toc: false
+
+cover:
+  image: /images/eric-rothermel-23788-unsplash.jpg
+  caption: Imagem de Eric Rothermel no Unsplash
+  style: medium
 ---
 
 Procrastinação é vista no sentido pejorativo quase sempre.
