@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amarildo Lucas</title>
-    <link>blog.amarildolucas.com/</link>
-    <description>Recent content on Amarildo Lucas</description>
+    <title>Amarildolucas on Amarildo Lucas</title>
+    <link>blog.amarildolucas.com/authors/amarildolucas/</link>
+    <description>Recent content in Amarildolucas on Amarildo Lucas</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 14 Apr 2017 09:00:00 +0600</lastBuildDate>
     
-	<atom:link href="blog.amarildolucas.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blog.amarildolucas.com/authors/amarildolucas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

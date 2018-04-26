@@ -1,30 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://amarildolucas.com/post/benef%C3%ADcios-em-ser-um-procrastinador/</loc>
-    <lastmod>2017-04-14T12:16:56-03:00</lastmod>
+    <loc>blog.amarildolucas.com/leia/benef%C3%ADcios-em-ser-um-procrastinador/</loc>
+    <lastmod>2017-04-14T09:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amarildolucas.com/</loc>
-    <lastmod>2017-04-14T12:16:56-03:00</lastmod>
+    <loc>blog.amarildolucas.com/</loc>
+    <lastmod>2017-04-14T09:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://amarildolucas.com/categories/</loc>
+    <loc>blog.amarildolucas.com/authors/amarildolucas/</loc>
+    <lastmod>2017-04-14T09:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://amarildolucas.com/post/</loc>
-    <lastmod>2017-04-14T12:16:56-03:00</lastmod>
+    <loc>blog.amarildolucas.com/authors/</loc>
+    <lastmod>2017-04-14T09:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>blog.amarildolucas.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://amarildolucas.com/tags/</loc>
+    <loc>blog.amarildolucas.com/tags/empreendedorismo/</loc>
+    <lastmod>2017-04-14T09:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog.amarildolucas.com/leia/</loc>
+    <lastmod>2017-04-14T09:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog.amarildolucas.com/categories/neg%C3%B3cios/</loc>
+    <lastmod>2017-04-14T09:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog.amarildolucas.com/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog.amarildolucas.com/tags/startups/</loc>
+    <lastmod>2017-04-14T09:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>blog.amarildolucas.com/tags/</loc>
+    <lastmod>2017-04-14T09:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   

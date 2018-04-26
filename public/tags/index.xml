@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Amarildo</title>
-    <link>http://amarildolucas.com/tags/</link>
-    <description>Recent content in Tags on Amarildo</description>
+    <title>Tags on Amarildo Lucas</title>
+    <link>blog.amarildolucas.com/tags/</link>
+    <description>Recent content in Tags on Amarildo Lucas</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt</language>
-    <copyright>© 2017 Amarildo Lucas</copyright>
+    <lastBuildDate>Fri, 14 Apr 2017 09:00:00 +0600</lastBuildDate>
     
-	<atom:link href="http://amarildolucas.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blog.amarildolucas.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Empreendedorismo</title>
+      <link>blog.amarildolucas.com/tags/empreendedorismo/</link>
+      <pubDate>Fri, 14 Apr 2017 09:00:00 +0600</pubDate>
+      
+      <guid>blog.amarildolucas.com/tags/empreendedorismo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startups</title>
+      <link>blog.amarildolucas.com/tags/startups/</link>
+      <pubDate>Fri, 14 Apr 2017 09:00:00 +0600</pubDate>
+      
+      <guid>blog.amarildolucas.com/tags/startups/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
