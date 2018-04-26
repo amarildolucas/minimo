@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amarildo</title>
+    <link>http://amarildolucas.com/</link>
+    <description>Recent content on Amarildo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>© 2017 Amarildo Lucas</copyright>
+    <lastBuildDate>Fri, 14 Apr 2017 12:16:56 -0300</lastBuildDate>
+    
+	<atom:link href="http://amarildolucas.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Benefícios em ser um procrastinador</title>
+      <link>http://amarildolucas.com/post/benef%C3%ADcios-em-ser-um-procrastinador/</link>
+      <pubDate>Fri, 14 Apr 2017 12:16:56 -0300</pubDate>
+      
+      <guid>http://amarildolucas.com/post/benef%C3%ADcios-em-ser-um-procrastinador/</guid>
+      <description>Procrastinação é vista no sentido pejorativo quase sempre.
+ Wikipédia define o termo da seguinte forma e observe as palavras pejorativas na frase. Procrastinação é o diferimento ou adiamento de uma ação. Para a pessoa que está a procrastinar, isso resulta em stress, sensação de culpa, perda de produtividade e vergonha em relação aos outros, por não cumprir com as suas responsabilidades e compromissos. Embora a procrastinação seja considerada normal, torna-se um problema quando impede o funcionamento normal das ações.</description>
+    </item>
+    
+  </channel>
+</rss>

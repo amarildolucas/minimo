@@ -1,23 +1,118 @@
-baseurl = "http://blog.amarildolucas.com"
-title = "Amarildo"
-author = "Amarildo Lucas"
-copyright = "© 2017 Amarildo Lucas"
-canonifyurls = true
-paginate = 5
-googleAnalytics = "UA-97441447-1"
-theme = "strange-case"
-languageCode = "pt"
-disqusShortname = "amarildolucas"
+baseURL = "http://blog.amarildolucas.com"
+title = "Amarildo Lucas"
+# for smart copyright line, leave this blank and check [params.copyright]
+copyright = ""
 
-[params]
-	DateFormat = "02/01 de 2006"
-	description = "Computadores, Café e Spotify"
-	sidebarDescription = ""
-	sidebarFreeText = ""
-	piwikSiteID = ""
-	piwikURL = ""
+theme = "minimo"
+
+disqusShortname = "amarildolucas"
+googleAnalytics = ""
+
+Paginate = 5
+preserveTaxonomyNames = true
+
+enableRobotsTXT = true # generate robots.txt
+
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+
+enableEmoji = true
+
+# Missing translations will default to this content language
+defaultContentLanguage = "pt"
+
+[params.info]
+description = "Cientista da Computação 👨🏾‍💻"
+title404 = "Amarildo ainda não escreveu este artigo!"
+
+[params.assets]
+favicon = "favicon.ico"
+customCSS = ["css/custom.css"]
+customJS = ["js/custom.js"]
+gopher = "" # used in 404 template ( Generator: https://gopherize.me )
+
+[params.copyright]
+prefix = ""
+holder = "Amarildo Lucas"
+startYear = "2018"
+suffix = ""
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "2006, January 02"
+listDateFormat = "2006, January 02"
+archiveDateFormat = "Jan 02"
+hideEntryNavigation = ["page"] # boolean / array of sections
+showReadingTime = false
+taxonomyCloudShuffle = true
+accentColor = "#ffcd00"
+hideMainMenu = false
+
+[params.sidebar]
+enable = true
+
+[params.widgets]
+homepage = ["recent_posts"]
+sidebar = ["about","taxonomy_cloud"]
+footer = ["social_menu"]
+
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
+
+[params.opengraph.twitter]
+page = "amarildojclucas" # Twitter page username
+
+[params.seo]
+# Title Separator: - – — · • * ⋆ | ~ « » < >
+titleSeparator = "•"
+
+[params.social]
+codepen = ""
+email = "hi@amarildolucas.com"
+facebook = "amarildojclucas"
+github = "amarildolucas"
+instagram = "amarildojclucas"
+linkedin = "amarildolucas"
+twitter = "amarildojclucas"
+telegram = ""
+google_scholar = ""
+
+[params.comments]
+enable = true
+
+[params.comments.staticman]
+enable = true
+apiEndpoint = "https://api.staticman.net/v2/entry"
+maxDepth = 2
+
+[params.comments.staticman.github]
+username = ""
+repository = "minimo"
+branch = "master"
+
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+
+[permalinks]
+page = "/:slug/"
 
 [[menu.main]]
-	name = "Twitter"
-	post = "<span class='glyphicon glyphicon-twitter'></span>"
-	url = "https://twitter.com/amarildojclucas"
+name = "Sobre"
+weight = -10
+identifier = "site"
+url = "http://www.amarildolucas.com"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[languages]
+# edit this block for your own language
+[languages.pt]
+lang = "pt"
+languageName = "Portuguese"
+weight = 1

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://amarildolucas.com/post/benef%C3%ADcios-em-ser-um-procrastinador/</loc>
+    <lastmod>2017-04-14T12:16:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://amarildolucas.com/</loc>
+    <lastmod>2017-04-14T12:16:56-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://amarildolucas.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://amarildolucas.com/post/</loc>
+    <lastmod>2017-04-14T12:16:56-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://amarildolucas.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
