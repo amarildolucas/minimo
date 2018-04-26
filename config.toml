@@ -45,8 +45,8 @@ archiveDateFormat = "Jan 02"
 hideEntryNavigation = ["page"] # boolean / array of sections
 showReadingTime = false
 taxonomyCloudShuffle = true
-accentColor = "#ffcd00"
-hideMainMenu = false
+accentColor = "#00ff5f"
+hideMainMenu = true
 
 [params.sidebar]
 enable = true
@@ -58,8 +58,8 @@ footer = ["social_menu"]
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
-appID = ""
-pageID = ""
+appID = "amarildojclucas"
+pageID = "amarildojclucas"
 
 [params.opengraph.twitter]
 page = "amarildojclucas" # Twitter page username
@@ -83,7 +83,7 @@ google_scholar = ""
 enable = true
 
 [params.comments.staticman]
-enable = true
+enable = false
 apiEndpoint = "https://api.staticman.net/v2/entry"
 maxDepth = 2
 
